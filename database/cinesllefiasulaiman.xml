@@ -1,0 +1,223 @@
+<bd>
+
+    <peliculas>
+
+        <pelicula titulo="Inception"
+         duracion="148 minutos" 
+         fecha_estreno=" 16 de julio de 2010" 
+         votos="1,934,346 votos en IMDb" >
+
+
+         <portada>https://ucarecdn.com/
+            42836f5e-cd4a-4f0f-8d24-4651fc409272/</portada>
+         <imagencentral>https://ucarecdn.com/
+            13ecad7c-7eeb-420d-a41e-b3e5905b788b/</imagencentral>
+         <pais>Estados Unidos</pais>
+         <genero>Ciencia ficción, Acción</genero>
+         <directores>Christopher Nolan</directores>
+         <guionistas>Christopher Nolan</guionistas> 
+         <productores>Christopher Nolan, Emma Thomas</productores>
+         <actores>DiCaprio, Joseph Gordon-Levitt, Ellen Page</actores>
+         <estrellas>Leonardo DiCaprio, Joseph Gordon-Levitt</estrellas>
+         <sinopsis>
+            <parrafos>
+                <parrafo>
+                    En un futuro cercano, Dom Cobb (interpretado por Leonardo DiCaprio) es un hábil ladrón de información que se especializa en extraer secretos de las mentes de las personas mientras están en un estado de sueño profundo. Sin embargo, Cobb es un fugitivo buscado y ha perdido todo lo que le importa en su vida debido a su habilidad. Su oportunidad de redimirse surge cuando un poderoso empresario le ofrece una última misión: en lugar de robar información, debe implantar una idea en la mente de un individuo. Para lograrlo, Cobb y su equipo deben entrar en un mundo de sueños dentro de sueños, enfrentando peligros y desafíos mientras se aventuran en las profundidades de la mente humana en un intento audaz de cambiar la realidad. 
+                </parrafo>
+
+                <parrafo>
+                    "Inception" es un thriller de ciencia ficción magistralmente dirigido por Christopher Nolan, que desafía los límites de la realidad y la percepción. La película presenta un mundo de ensueño lleno de espectaculares secuencias de acción y efectos visuales asombrosos mientras explora conceptos complejos de la psicología humana. A medida que la línea entre el sueño y la realidad se desdibuja, "Inception" lleva a los espectadores en un viaje emocionante y cerebral que los mantendrá intrigados hasta el último momento.
+                </parrafo>
+            </parrafos>
+
+         </sinopsis>
+
+        </pelicula>
+
+        <pelicula titulo="La La Land"
+         duracion="128 minutos" 
+         fecha_estreno=" 9 de diciembre de 2016" 
+         votos="518,370 votos en IMDb" >
+
+
+         <portada>https://ucarecdn.com/
+            24bda1e9-6cbe-4940-a7b3-d9dbfd6bacf0/</portada>
+         <imagencentral>https://ucarecdn.com/
+            274a2b5f-3610-4faf-acc4-c95999864fa7/</imagencentral>
+         <pais>Estados Unidos</pais>
+         <genero>Musical, Romance</genero>
+         <directores>Damien Chazelle</directores>
+         <guionistas>Damien Chazelle</guionistas> 
+         <productores>Fred Berger, Jordan Horowitz</productores>
+         <actores> Ryan Gosling, Emma Stone</actores>
+         <estrellas> Ryan Gosling, Emma Stone</estrellas>
+         <sinopsis>
+            <parrafos>
+                <parrafo>
+                    La La Land" es un cautivador musical que nos sumerge en la vida de Mia (interpretada por Emma Stone), una aspirante a actriz, y Sebastian (interpretado por Ryan Gosling), un talentoso pianista de jazz, mientras persiguen sus sueños en la vibrante ciudad de Los Ángeles. A medida que sus caminos se cruzan y su amor florece, enfrentan desafíos personales y profesionales que ponen a prueba su relación y sus ambiciones individuales. La película es un homenaje a los musicales clásicos de Hollywood, con deslumbrantes números de baile y música original que elevan la historia de amor de Mia y Sebastian a nuevas alturas.
+                </parrafo>
+
+                <parrafo>
+                    Con una dirección magistral de Damien Chazelle, "La La Land" captura la magia y el encanto de Los Ángeles mientras narra una historia emotiva y conmovedora sobre la pasión, el sacrificio y los sueños. Emma Stone y Ryan Gosling deslumbran con sus actuaciones, y la película se destaca por su estilizada cinematografía y su emotiva banda sonora. Esta película ha sido aclamada tanto por la crítica como por el público y ha recibido numerosos premios, incluyendo varios premios Oscar.
+                </parrafo>
+            </parrafos>
+
+         </sinopsis>
+        </pelicula>
+        
+       <pelicula titulo="Parasite"
+        duracion="132 minutos" 
+        fecha_estreno=" 21 de mayo de 2019" 
+        votos="646,262 votos en IMDb" >
+
+
+        <portada>https://ucarecdn.com/
+            853de3f7-ac85-4588-bd00-f837ec5ca9df/</portada>
+        <imagencentral>https://ucarecdn.com/
+            564861c6-b18a-4752-b9b4-8b658b3ba915/</imagencentral>
+        <pais>Corea del Sur</pais>
+        <genero>Comedia negra, Drama, Thriller</genero>
+        <directores>Bong Joon-ho, Han Jin-won</directores>
+        <guionistas>Bong Joon-ho, Han Jin-won</guionistas> 
+        <productores>Bong Joon-ho, Kwak Sin-ae</productores>
+        <actores> Song Kang-ho, Lee Sun-kyun</actores>
+        <estrellas> Song Kang-ho, Lee Sun-kyun</estrellas>
+        <sinopsis>
+           <parrafos>
+               <parrafo>
+                "Parasite" es un drama surcoreano que narra la historia de la familia Kim, una familia de bajos recursos que lucha por sobrevivir en un entorno de extrema desigualdad social. Cuando su hijo mayor, Ki-woo, obtiene la oportunidad de convertirse en tutor de inglés para la adinerada familia Park, los Kim ven la posibilidad de mejorar su vida. Aprovechando su astucia, comienzan a infiltrarse en la vida de los Park, ocupando puestos de trabajo en su lujosa residencia. Sin embargo, a medida que las mentiras y los secretos se acumulan, la situación se complica y se desencadenan eventos imprevisibles que ponen en peligro la fachada que han construido.
+               </parrafo>
+
+               <parrafo>
+                Dirigida por Bong Joon-ho, "Parasite" es un drama social y una sátira mordaz que explora temas de clase y desigualdad de manera provocativa e inteligente. La película es un viaje oscuro y sorprendente que se adentra en los rincones más oscuros de la psicología humana mientras examina las tensiones entre las clases sociales y las dinámicas familiares. Con giros inesperados y un profundo comentario social, "Parasite" se convirtió en un fenómeno internacional, ganando el premio a la Mejor Película en los Premios de la Academia en 2020 y consolidándose como un hito en la historia del cine surcoreano.
+               </parrafo>
+           </parrafos>
+
+        </sinopsis>
+       </pelicula>
+
+
+       <pelicula titulo="Fate/stay night: Heaven's Feel I. Presage Flower"
+        duracion=" 120 minutos" 
+        fecha_estreno=" 14 de octubre de 2017 en Japón" 
+        votos="11,058 votos en IMDb" >
+
+
+        <portada>https://ucarecdn.com/
+            f46adb4f-c955-4925-aeb8-388a416885ac/</portada>
+        <imagencentral>https://ucarecdn.com/
+            2ad45eea-3b8e-4bc6-b48a-b716086da93a/</imagencentral>
+        <pais>Japón</pais>
+        <genero>Acción, Fantasía, Drama</genero>
+        <directores>Tomonori Sudou</directores>
+        <guionistas>Akira Hiyama</guionistas> 
+        <productores>TYPE-MOON. </productores>
+        <actores> Noriaki Sugiyama, Noriko Shitaya, Ayako Kawasumi</actores>
+        <estrellas> Noriaki Sugiyama, Noriko Shitaya, Ayako Kawasumi</estrellas>
+        <sinopsis>
+           <parrafos>
+               <parrafo>
+                La película "Fate/stay night: Heaven's Feel I. Presage Flower" sigue los pasos de Shirou Emiya, un joven mago que se encuentra involucrado en la peligrosa Guerra del Santo Grial, un conflicto mágico en el que siete magos y sus espíritus heroicos luchan por el deseado Santo Grial, un objeto capaz de conceder cualquier deseo. Sin embargo, en esta ruta específica de "Heaven's Feel", la historia se centra en la relación entre Shirou y Sakura Matou, la hermana menor de su amigo, y en los oscuros secretos que rodean a la familia Matou
+               </parrafo>
+
+               <parrafo>
+                A medida que avanza la trama, Shirou se ve atrapado en un conflicto sangriento y traumático, donde deberá tomar decisiones difíciles para proteger a Sakura y enfrentar terribles amenazas sobrenaturales, llevándolo a un viaje de descubrimiento y peligro en un mundo de magia y tragedia.
+               </parrafo>
+           </parrafos>
+
+        </sinopsis>
+       </pelicula>
+       
+       <pelicula titulo="Fate/stay night: Heaven's Feel II. Lost Butterfly"
+        duracion="117 minutos" 
+        fecha_estreno=" 12 de enero de 2019" 
+        votos="5,342 votos en IMDb." >
+
+
+        <portada>https://ucarecdn.com/
+            420a72cc-f392-46e3-8f8d-f239f115b243/</portada>
+        <imagencentral>https://ucarecdn.com/
+            fb5b2150-18e2-436f-94e8-e8cd9e4793da/</imagencentral>
+        <pais>Japón</pais>
+        <genero>Acción, Fantasía, Drama</genero>
+        <directores>Tomonori Sudou</directores>
+        <guionistas>Akira Hiyama</guionistas> 
+        <productores>TYPE-MOON </productores>
+        <actores> Noriaki Sugiyama, Noriko Shitaya, Ayako Kawasumi</actores>
+        <estrellas> Noriaki Sugiyama, Noriko Shitaya, Ayako Kawasumi</estrellas>
+        <sinopsis>
+           <parrafos>
+               <parrafo>
+                En "Fate/stay night: Heaven's Feel II. Lost Butterfly", la trama se adentra aún más en el oscuro y complicado conflicto de la Guerra del Santo Grial. La relación entre Shirou Emiya y Sakura Matou se vuelve aún más intensa y complicada a medida que se enfrentan a enemigos más formidables y a revelaciones impactantes sobre el oscuro pasado de Sakura y la verdadera naturaleza de su magia. La película presenta impresionantes batallas mágicas, decisiones desgarradoras y giros dramáticos que llevan a los personajes a un punto de no retorno en su lucha por el Santo Grial, mientras el destino del mundo pende de un hilo.
+               </parrafo>
+
+               <parrafo>
+                "Lost Butterfly" se sumerge en el corazón de la tragedia y la acción, y continúa explorando los lazos entre los personajes principales, mientras descubrimos más secretos y misterios en este emocionante capítulo de la trilogía "Heaven's Feel".
+               </parrafo>
+           </parrafos>
+
+        </sinopsis>
+       </pelicula>
+
+       <pelicula titulo="Fate/stay night: Heaven's Feel - III. Spring Song"
+       duracion="121 minutos" 
+       fecha_estreno=" 15 de agosto de 2020" 
+       votos="2.400 votos en IMDb." >
+
+
+       <portada>https://ucarecdn.com/
+        8c55f84a-6822-4e77-826d-df5be9ba02b7/</portada>
+       <imagencentral>https://ucarecdn.com/
+        6d3c57c7-8dbe-4748-a77a-ad91ec33f3ec/</imagencentral>
+       <pais>Japón</pais>
+       <genero>Acción, Fantasía, Drama</genero>
+       <directores>Tomonori Sudou</directores>
+       <guionistas>Akira Hiyama</guionistas> 
+       <productores>TYPE-MOON </productores>
+       <actores> Noriaki Sugiyama, Noriko Shitaya, Ayako Kawasumi</actores>
+       <estrellas> Noriaki Sugiyama, Noriko Shitaya, Ayako Kawasumi</estrellas>
+       <sinopsis>
+          <parrafos>
+              <parrafo>
+                En "Fate/stay night: Heaven's Feel III. Spring Song", la épica saga llega a su emocionante conclusión. La Guerra del Santo Grial entra en su etapa final y las apuestas son más altas que nunca.
+              </parrafo>
+
+              <parrafo>
+                Shirou Emiya y Sakura Matou deben enfrentar desafíos inimaginables y decisiones agonizantes mientras luchan por proteger a quienes aman y determinar el destino del mundo. La película ofrece espectaculares batallas mágicas, un profundo desarrollo de personajes y un desenlace impactante que cierra de manera épica esta apasionante trilogía, revelando los misterios finales del oscuro y fascinante mundo de "Heaven's Feel"
+              </parrafo>
+          </parrafos>
+
+       </sinopsis>
+      </pelicula>
+      <pelicula titulo="Avengers: Endgame"
+      duracion="181 minutos" 
+      fecha_estreno=" 26 de abril de 2019" 
+      votos="909,749 votos en IMDb " >
+
+
+      <portada>https://ucarecdn.com/
+        e7860546-6fe1-4287-a3a4-9aa43edcc2c4/</portada>
+      <imagencentral>https://ucarecdn.com/
+        2dc97517-047d-45f1-8189-3303ff96758a/</imagencentral>
+      <pais>Estados Unidos</pais>
+      <genero>Acción, Aventura, Ciencia ficción</genero>
+      <directores>Anthony Russo y Joe Russo</directores>
+      <guionistas>Christopher Markus y Stephen McFeely</guionistas> 
+      <productores>Kevin Feige</productores>
+      <actores>Robert Downey Jr, Chris Evans,Scarlett Johansson, Chris Hemsworth, Mark Ruffalo, Jeremy Renner</actores>
+      <estrellas>Robert Downey Jr., Chris Evans, Scarlett Johansson</estrellas>
+      <sinopsis>
+         <parrafos>
+             <parrafo>
+                Avengers: Endgame" es la culminación épica de la saga de los Vengadores del Universo Cinematográfico de Marvel (MCU). La película sigue a los superhéroes mientras intentan revertir los devastadores eventos causados por Thanos en "Avengers: Infinity War"
+             </parrafo>
+
+             <parrafo>
+                Los Vengadores restantes se embarcan en un viaje en el tiempo para recuperar las Gemas del Infinito y deshacer el chasquido de Thanos que eliminó a la mitad de la vida en el universo. La película presenta emocionantes batallas, momentos emotivos y un enfrentamiento final épico en una lucha por el destino del universo.
+             </parrafo>
+         </parrafos>
+
+      </sinopsis>
+     </pelicula>
+    </peliculas>
+</bd>
